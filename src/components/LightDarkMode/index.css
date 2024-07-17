@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40vh;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  border-color: black;
+}
+.heading {
+  height: 12vh;
+  width: 35vw;
+  text-align: center;
+}
+.Light-Mode {
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  border-color: black;
+}
+.button{
+  text-align: center;
+  margin-left: 125px;
+  font-size: 25px;
+  
+}
